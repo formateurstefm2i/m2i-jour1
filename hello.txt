@@ -2,5 +2,3 @@ hello World
 nouvelle ligne
 nouvelle ligne2
 nouvelle ligne3
-
-nouvelle ligne c1bis
